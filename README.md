@@ -2,11 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:6A5ACD,100:8A2BE2&height=220&section=header&text=AJAY%20RS&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+Profile+🚀;AI+%7C+Full-Stack+Developer+%7C+Problem+Solver;Deep+Learning+%7C+Computer+Vision+%7C+Data+Science;Building+Real-World+Intelligent+Systems"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=AjayyIT&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+🚀;AI+%7C+Full-Stack+Developer;Deep+Learning+%7C+Computer+Vision;Building+Real-World+Applications"/>
 
 </div>
 
@@ -19,7 +15,7 @@ Name: Ajay RS
 Role: Final Year IT Student
 Focus: AI • Deep Learning • Full Stack Development
 Location: Tamil Nadu, India
-Passion: Building intelligent systems and real-world applications
+Passion: Building intelligent systems and impactful applications
 ```
 
 <div align="center">
@@ -27,7 +23,7 @@ Passion: Building intelligent systems and real-world applications
 <img src="https://img.shields.io/badge/AI%20Enthusiast-00F7FF?style=for-the-badge&logo=openai&logoColor=black"/>
 <img src="https://img.shields.io/badge/Problem%20Solver-6A5ACD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Full%20Stack%20Developer-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Lifelong%20Learner-00C896?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Always%20Learning-00C896?style=for-the-badge"/>
 
 </div>
 
@@ -59,7 +55,7 @@ Passion: Building intelligent systems and real-world applications
 
 ## 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,java,php,javascript,sql"/>
+<img src="https://skillicons.dev/icons?i=python,c,java,php,javascript,mysql"/>
 
 </div>
 
@@ -80,6 +76,7 @@ Passion: Building intelligent systems and real-world applications
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
 
 </div>
 
@@ -107,37 +104,11 @@ Passion: Building intelligent systems and real-world applications
 
 ---
 
-# 🚀 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 💡 Domain |
-|---|---|
-| 🌿 Plant Disease Detection | Deep Learning + Computer Vision |
-| 📈 Land Price Prediction System | Business Intelligence |
-| 🏋️ Gym Membership Management | Full Stack Web Development |
-| 🎨 Color Detection System | OpenCV + Image Processing |
-| 🔍 Suffix Tree Search Engine | Data Structures & Algorithms |
-
-</div>
-
----
-
-# 💭 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
 # 🎵 Currently Vibing To
 
 <div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31z4r4dummyspotifyid&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false"/>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder"/>
 
 </div>
 
