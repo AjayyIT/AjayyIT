@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development, Machine Learning, and ServiceNow integrations**
 - 🌱 I’m currently exploring **Cloud Architecture (AWS & Azure) and DevOps**
-- 👨‍💻 All of my projects will be available at [your-portfolio-link]
+- 👨‍💻 All of my projects will be available at **[https://github.com/AjayyIT]**
 - 💬 Ask me about **Java, PHP, JavaScript, HTML, and building custom AI models**
-- 📫 How to reach me: **[your-email@example.com]**
+- 📫 How to reach me: **[ajayy.infotechh@gmail.com]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ajay-r-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
