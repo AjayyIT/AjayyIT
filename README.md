@@ -2,7 +2,7 @@
 
 # ⚡ AJAY RS ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%7C+Full-Stack+Developer+%7C+Data+Science+Enthusiast;Building+Real-World+Projects+with+AI+and+Web+Technologies;Deep+Learning+%7C+Computer+Vision+%7C+Business+Intelligence;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%7C+Full-Stack+Developer+%7C+Data+Science+Enthusiast;Building+Real-World+Projects+with+AI+and+Web+Technologies;Deep+Learning+%7C+Computer+Vision+%7C+Business+Intelligence;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
