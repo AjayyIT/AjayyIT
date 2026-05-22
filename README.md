@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13c7e8,50:6A5ACD,100:8A2BE2&height=220&section=header&text=AJAY%20RS&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=28&duration=3000&pause=1000&color=13C7E8&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+🚀;AI+%7C+Full-Stack+Developer;Deep+Learning+%7C+Computer+Vision;Building+Real-World+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=28&duration=3000&pause=1000&color=13C7E8&center=true&vCenter=true&width=900&lines=Web-Development+🚀;AI+%7C+Full-Stack+Developer;Deep+Learning+%7C+Computer+Vision;Building+Real-World+Applications"/>
 
 </div>
 
