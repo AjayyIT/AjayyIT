@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:6A5ACD,100:8A2BE2&height=220&section=header&text=AJAY%20RS&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:13c7e8,50:6A5ACD,100:8A2BE2&height=220&section=header&text=AJAY%20RS&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+🚀;AI+%7C+Full-Stack+Developer;Deep+Learning+%7C+Computer+Vision;Building+Real-World+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=28&duration=3000&pause=1000&color=13C7E8&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+🚀;AI+%7C+Full-Stack+Developer;Deep+Learning+%7C+Computer+Vision;Building+Real-World+Applications"/>
 
 </div>
 
@@ -20,7 +20,7 @@ Passion: Building intelligent systems and impactful applications
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20Enthusiast-00F7FF?style=for-the-badge&logo=openai&logoColor=black"/>
+<img src="https://img.shields.io/badge/AI%20Enthusiast-13c7e8?style=for-the-badge&logo=openai&logoColor=black"/>
 <img src="https://img.shields.io/badge/Problem%20Solver-6A5ACD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Full%20Stack%20Developer-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Always%20Learning-00C896?style=for-the-badge"/>
@@ -34,7 +34,7 @@ Passion: Building intelligent systems and impactful applications
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ajay-r-s">
-<img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LinkedIn-13c7e8?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="https://github.com/AjayyIT">
@@ -104,19 +104,9 @@ Passion: Building intelligent systems and impactful applications
 
 ---
 
-# 🎵 Currently Vibing To
-
 <div align="center">
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:6A5ACD,100:00F7FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:6A5ACD,100:13c7e8&height=120&section=footer"/>
 
 # ⚡ Code • Learn • Build • Repeat ⚡
 
