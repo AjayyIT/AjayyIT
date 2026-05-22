@@ -86,9 +86,9 @@ Passion: Building intelligent systems and impactful applications
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AjayyIT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=13c7e8&icon_color=13c7e8&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AjayyIT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayyIT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=13c7e8&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayyIT&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
