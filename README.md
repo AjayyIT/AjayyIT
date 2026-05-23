@@ -23,7 +23,7 @@ Passion: Building intelligent systems and impactful applications
 <img src="https://img.shields.io/badge/AI%20Enthusiast-13c7e8?style=for-the-badge&logo=openai&logoColor=black"/>
 <img src="https://img.shields.io/badge/Problem%20Solver-6A5ACD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Full%20Stack%20Developer-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always%20Learning-00C896?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Active%20Learning-00C896?style=for-the-badge"/>
 
 </div>
 
